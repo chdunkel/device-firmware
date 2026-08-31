@@ -28,5 +28,6 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+ws43	app	0.9.7	3799600	e610e96295c2e4e91400756e561a52522229a7f263df3a9a9ee298f3cb460ef4	72f87e53aec33bf4bb4264cc2a1be0d5ca637a61b478344b9c3c27035f946f04	ws43/app-0.9.7-72f87e53.bin	adds the over-the-air update channel (fwdl)
 ws43	radio	3.0.6	1418464	3177cd39c14a716275dc4bdeff728f2dffb51c5b185b40b5330caa41704efb7b	-	ws43/radio-3.0.6.bin	first published build
 ws43	app	0.9.6	3494816	a453c818079d1579d86502b527504010551b462ac06d799d84734243b771e098	7f29a6cb88e3e86d62e2137227926f779f32be3cbe76f82f590721fdd1e400c9	ws43/app-0.9.6-7f29a6cb.bin	first published build
