@@ -1,0 +1,32 @@
+# Firmware manifest.  Generated - do not hand-edit.
+#
+# Records are TAB separated and are meant to be parsed BY SHAPE rather than as
+# JSON: the device that reads this has no JSON parser, and pulling one in
+# costs tens of kilobytes of flash for a file that is seven fields wide.
+# Blank lines and lines beginning with '#' are ignored.  A reader MUST ignore
+# records whose board or kind it does not recognise and MUST ignore extra
+# trailing fields, so this file can grow columns without breaking a device
+# already in the field.
+#
+#   board <TAB> kind <TAB> version <TAB> bytes <TAB> sha256 <TAB> elf <TAB> path
+#
+#   board    hardware id, from the table in the publishing tool
+#   kind     app   - the device's own firmware
+#            radio - the ESP32-C6 co-processor's ESP-Hosted slave
+#   version  dotted.  For a radio image this is AUTHORITATIVE and is the only
+#            place the true version appears: ESP-Hosted never sets
+#            PROJECT_VER, so the image's own descriptor reports "1".
+#   bytes    decimal length of the file
+#   sha256   of the file, so a download can prove it arrived intact
+#   elf      the app descriptor's app_elf_sha256 - BUILD IDENTITY.  Two builds
+#            of one version number differ here and nowhere else, which is what
+#            lets a device tell "already running this" from "a rebuild of it"
+#            without downloading megabytes to find out.  "-" where it carries
+#            no meaning.
+#   path     repo-relative; appended to the base URL the device is built with
+#
+# Records are newest first within each (board, kind).
+
+manifest	1
+ws43	radio	3.0.6	1418464	3177cd39c14a716275dc4bdeff728f2dffb51c5b185b40b5330caa41704efb7b	-	ws43/radio-3.0.6.bin	first published build
+ws43	app	0.9.6	3494816	a453c818079d1579d86502b527504010551b462ac06d799d84734243b771e098	7f29a6cb88e3e86d62e2137227926f779f32be3cbe76f82f590721fdd1e400c9	ws43/app-0.9.6-7f29a6cb.bin	first published build
