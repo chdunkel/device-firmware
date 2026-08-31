@@ -11,6 +11,7 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| ws35 | app | 0.9.12 | 2.8 MB | `ws35/app-0.9.12-35e3aa2b.bin` |
 | ws43 | app | 0.9.12 | 3.6 MB | `ws43/app-0.9.12-9e4a11e8.bin` |
 | ws43 | app | 0.9.11 | 3.6 MB | `ws43/app-0.9.11-42ef9d33.bin` |
 | ws43 | app | 0.9.10 | 3.6 MB | `ws43/app-0.9.10-c7645e9f.bin` |
@@ -26,4 +27,5 @@ gigabyte within a year and make it painful to clone.
 
 | id | hardware |
 | --- | --- |
+| `ws35` | Waveshare ESP32-S3-Touch-LCD-3.5B |
 | `ws43` | Waveshare ESP32-P4-WIFI6-Touch-LCD-4.3 |

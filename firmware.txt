@@ -28,6 +28,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+ws35	app	0.9.12	2961856	c35be0c0a69f6910414aa60c306f0c55947e67344b66c16e7d7bfe3cafd690c0	35e3aa2bf729153eb98dbe44c1c1f94fce2df4a61bc63482fce2f29f98ed2f00	ws35/app-0.9.12-35e3aa2b.bin	S3 build; the board cannot yet FETCH this - see docs/firmware-updates.md
 ws43	app	0.9.12	3802976	fca131425fe4e2495fa4eca6d981dc1274ab15247c898449b3d9838a2773030a	9e4a11e8a09ce0cb09164a4cff4ab3ea11c8506d80ed9c256d7f740974467f86	ws43/app-0.9.12-9e4a11e8.bin	pill says UP TO DATE once the manifest has answered; docs/firmware-updates.md
 ws43	app	0.9.11	3802768	99f5dfe0ea47320abf5d562c620d980792c06c09360fe58d4a713a967cd9f053	42ef9d33597428a3b32351b74c3fd674dfeba75421b0cb80d223db4f9f5cb7c0	ws43/app-0.9.11-42ef9d33.bin	OTA write source must be internal RAM, not PSRAM (cache is off during a flash write)
 ws43	app	0.9.10	3802896	1f0ba4fb698b7c9929a2aeea98d9be5423681be7c6716cb4fca2bfb7e958be8f	c7645e9f689b96fbafd3023c2bdda9bab0cf6cfe34342d1cbe493e7635360673	ws43/app-0.9.10-c7645e9f.bin	download streams straight into the OTA slot: one write instead of two, install is instant
