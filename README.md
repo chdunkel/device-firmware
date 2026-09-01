@@ -11,12 +11,12 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| ws43 | app | 0.9.15 | 3.6 MB | `ws43/app-0.9.15-5618d57a.bin` |
 | ws43 | app | 0.9.14 | 3.6 MB | `ws43/app-0.9.14-c0c89eeb.bin` |
 | ws43 | app | 0.9.13 | 3.6 MB | `ws43/app-0.9.13-4db4415e.bin` |
 | ws35 | app | 0.9.12 | 2.8 MB | `ws35/app-0.9.12-35e3aa2b.bin` |
 | ws43 | app | 0.9.12 | 3.6 MB | `ws43/app-0.9.12-9e4a11e8.bin` |
 | ws43 | app | 0.9.11 | 3.6 MB | `ws43/app-0.9.11-42ef9d33.bin` |
-| ws43 | app | 0.9.10 | 3.6 MB | `ws43/app-0.9.10-c7645e9f.bin` |
 | ws43 | radio | 3.0.6 | 1.4 MB | `ws43/radio-3.0.6.bin` |
 
 Only the 5 newest of each kind are kept: a device image is several
