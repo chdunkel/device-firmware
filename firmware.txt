@@ -32,13 +32,13 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+ws43	app	0.9.18	3981264	915519114a594c97cc1a647c1b4e2824b78bc2777f73ac29a57b785d11da361d	3dc18df74994eb7ab4169be09d05f9ba9d7d7905fbfb87713f2bbbba4901e09c	ws43/app-0.9.18-3dc18df7.bin	The UPDATES page streamlined: a plain version means fine on every row, a word only where something is wrong or costs something; a channel candidate shows its download size; from the sheet the pill is the way back and says what UPDATE costs
 ws43	app	0.9.17	3980944	24e437d7266b3f2c1f38fb35aef496a85371e27071eb3147297fe0cf62ce6eea	275aa7132f1a1ad8e2214696db64252fbc8dea4a8a8ff7c2fe994e180ffdf99b	ws43/app-0.9.17-275aa713.bin	TRACKS lists the whole database, UPDATES is one page, the debrief replays the laps on the map; the boot's storage phase is 3 s and the log budget pass no longer holds the glass
 all	trackdb	1788385359	1961168	05de8787b2b5ceff8095b067a7588cd7c47d1852e744df3eec27497424ddd1c8	9DB664A2	all/trackdb-1788385359-9db664a2.pltdb	123 venues
 ws43	app	0.9.15	3797216	f99d3b77aa109911a0d640d2176dbdecf4814408ad438da6eda7ecad39349180	5618d57a39c9c6ce248de3a90c0a62487bfadf11f0721f81ae7b7f5664b75fe7	ws43/app-0.9.15-5618d57a.bin	the panel stays dark until there is a picture for it, instead of a second of blue at boot
 ws43	app	0.9.14	3796336	212c7419e132af2544c77c1dd48f49da25b090e1f50ba261e24b320fafce394f	c0c89eeb37bd147a17ed1faa07cabbde18432efc7d189ff3afa34aa5f4e8ebf1	ws43/app-0.9.14-c0c89eeb.bin	a dropped download retries and cleans up after itself; the signal reading no longer freezes the glass
 ws43	app	0.9.13	3792176	8362a010e7dde73b8bb948d4ee388a1328cc4058c939fef902e3c9c2a79453ac	4db4415e18c99baf5c7b319ccda15295b0f7dd2e2460fa127f6fe9549ad59d29	ws43/app-0.9.13-4db4415e.bin	WiFi setup: the PASSWORD row is the picker when nothing is stored, and a discarded key comes back
 ws35	app	0.9.12	2961856	c35be0c0a69f6910414aa60c306f0c55947e67344b66c16e7d7bfe3cafd690c0	35e3aa2bf729153eb98dbe44c1c1f94fce2df4a61bc63482fce2f29f98ed2f00	ws35/app-0.9.12-35e3aa2b.bin	S3 build; the board cannot yet FETCH this - see docs/firmware-updates.md
-ws43	app	0.9.12	3802976	fca131425fe4e2495fa4eca6d981dc1274ab15247c898449b3d9838a2773030a	9e4a11e8a09ce0cb09164a4cff4ab3ea11c8506d80ed9c256d7f740974467f86	ws43/app-0.9.12-9e4a11e8.bin	pill says UP TO DATE once the manifest has answered; docs/firmware-updates.md
 ws43	radio	3.0.6	1418464	3177cd39c14a716275dc4bdeff728f2dffb51c5b185b40b5330caa41704efb7b	-	ws43/radio-3.0.6.bin	first published build
 all	map	85156404	672528	3056b555359afc18b0b72323900c149cca2722d9e47578d198bd57397d9926eb	-	all/maps/ALBACETE_CIRCUITO.PLM
 all	map	0CC12BEC	1687224	d25bdc7c8fc7f2f3268d2d1ed135a3286b0b67b39222cebd7c5b614cd037eda6	-	all/maps/ALBI_CIRCUIT.PLM
