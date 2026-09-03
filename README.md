@@ -11,12 +11,12 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| ws43 | app | 0.9.20 | 3.8 MB | `ws43/app-0.9.20-b429a3cd.bin` |
 | ws43 | app | 0.9.19 | 3.8 MB | `ws43/app-0.9.19-d7465f22.bin` |
 | ws43 | app | 0.9.18 | 3.8 MB | `ws43/app-0.9.18-3dc18df7.bin` |
 | ws43 | app | 0.9.17 | 3.8 MB | `ws43/app-0.9.17-275aa713.bin` |
 | all | trackdb | 1788385359 | 1.9 MB | `all/trackdb-1788385359-9db664a2.pltdb` |
 | ws43 | app | 0.9.15 | 3.6 MB | `ws43/app-0.9.15-5618d57a.bin` |
-| ws43 | app | 0.9.14 | 3.6 MB | `ws43/app-0.9.14-c0c89eeb.bin` |
 | ws35 | app | 0.9.12 | 2.8 MB | `ws35/app-0.9.12-35e3aa2b.bin` |
 | ws43 | radio | 3.0.6 | 1.4 MB | `ws43/radio-3.0.6.bin` |
 | all | map | 85156404 | 0.6 MB | `all/maps/ALBACETE_CIRCUITO.PLM` |
