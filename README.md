@@ -11,6 +11,7 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| ws35 | app | 0.9.22 | 3.0 MB | `ws35/app-0.9.22-a016f79a.bin` |
 | ws43 | app | 0.9.22 | 3.8 MB | `ws43/app-0.9.22-f2b41d5a.bin` |
 | ws43 | app | 0.9.20 | 3.8 MB | `ws43/app-0.9.20-b429a3cd.bin` |
 | ws43 | app | 0.9.19 | 3.8 MB | `ws43/app-0.9.19-d7465f22.bin` |

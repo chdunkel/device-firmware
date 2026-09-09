@@ -32,6 +32,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+ws35	app	0.9.22	3149424	4e866dd12608e5c40fd76ccbeaca9055882036e1b9263dc14be66afc3789331a	a016f79ad0444398a6a923abfb119fd25c13056ca87fed37e1eb58d4263fa379	ws35/app-0.9.22-a016f79a.bin	0.9.22 for the S3: Nordschleife BTG configuration, GP chicane split, reference hold, BeiDou off, sawtooth fix; the S3 build had been broken since 2026-09-03 by the fast console's UART-only symbol
 ws43	app	0.9.22	4005296	7e9ca9be492148baaa41a9efe045e22638c9456fc0c75ab58ca72216259c91ea	f2b41d5a7b0b01a2791df29518f8c0d3dc66cc7a63f471a595c3b8a3eeed30d5	ws43/app-0.9.22-f2b41d5a.bin	0.9.22: Nordschleife BTG as a configuration (finish line, Schleuse gates), GP chicane split, reference hold, BeiDou off, sawtooth fix
 ws43	app	0.9.20	3980880	9a023d6a366355fabb73e5aacaa1c4e618f43d8d19b5ea27dc64e7db04a14af2	b429a3cdc1d32a3e867455a86cea2286f0f524454fda717aa8eeb9dda930bf8e	ws43/app-0.9.20-b429a3cd.bin	The boot-time update offer is out of the swipe ring: no page counter on it, a ring swipe cannot land on it, and a swipe on the offer is NOT NOW
 ws43	app	0.9.19	3981264	3384dad30cb93191f72fbd7f6c3d60e726931c9097d6fe570580d8529a0b2ca5	d7465f22d058a2d8cc95463b9b7892263b713ae747e2e00a9fe48be8c932bd10	ws43/app-0.9.19-d7465f22.bin	The settings sheet keeps its scroll position when a child page closes; UPDATES sent it back to the top
