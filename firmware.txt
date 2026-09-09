@@ -32,6 +32,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+all	trackdb	1788987688	2039113	5daf56d66f643d822ff58b545aad924d10588bad75dbbdc7e11b93208ecaf501	E6CAC4D0	all/trackdb-1788987688-e6cac4d0.pltdb	123 venues: Nordschleife BTG (bridge S/F, finish at the gantry, Schleuse gates) and the Nuerburgring GP chicane split (GP pinned to the NGK way, GP SLOW as the other branch) 123 venues
 ws35	app	0.9.22	3149424	4e866dd12608e5c40fd76ccbeaca9055882036e1b9263dc14be66afc3789331a	a016f79ad0444398a6a923abfb119fd25c13056ca87fed37e1eb58d4263fa379	ws35/app-0.9.22-a016f79a.bin	0.9.22 for the S3: Nordschleife BTG configuration, GP chicane split, reference hold, BeiDou off, sawtooth fix; the S3 build had been broken since 2026-09-03 by the fast console's UART-only symbol
 ws43	app	0.9.22	4005296	7e9ca9be492148baaa41a9efe045e22638c9456fc0c75ab58ca72216259c91ea	f2b41d5a7b0b01a2791df29518f8c0d3dc66cc7a63f471a595c3b8a3eeed30d5	ws43/app-0.9.22-f2b41d5a.bin	0.9.22: Nordschleife BTG as a configuration (finish line, Schleuse gates), GP chicane split, reference hold, BeiDou off, sawtooth fix
 ws43	app	0.9.20	3980880	9a023d6a366355fabb73e5aacaa1c4e618f43d8d19b5ea27dc64e7db04a14af2	b429a3cdc1d32a3e867455a86cea2286f0f524454fda717aa8eeb9dda930bf8e	ws43/app-0.9.20-b429a3cd.bin	The boot-time update offer is out of the swipe ring: no page counter on it, a ring swipe cannot land on it, and a swipe on the offer is NOT NOW
