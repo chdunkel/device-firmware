@@ -32,6 +32,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+host	glass	0.9.31	3320429	aa883ee70523b482e64ab6ee8dd80b2d6a6725aef11b34828d13f1cdc394892a	-	host/glass-0.9.31-aa883ee7.exe	glass: --ref (the reference the device held), one obeying camera on the rig; built from 723bd0a + overlay work of 2026-09-10
 host	glass	0.9.31	3314484	cf3718072f58e7e1915d51a921f99a992f09624af15fadb4648741d12df97609	-	host/glass-0.9.31-cf371807.exe	host renderer for the overlay tool, built from 723bd0a
 ws43	app	0.9.30	4089856	1d2f6034299f453a0c9ff821ca5bbb25c05c7c52edc41d6b0a752ce126f93731	e6f67b65173b49ecb46ab06b8558657534de473ab65a7c184450490395cd1c5a	ws43/app-0.9.30-e6f67b65.bin	Review: a run consumes its stop, the bench guard is a gate, bench runs never a best, verdict 9 in four languages, a quiet list row
 ws43	app	0.9.29	4089232	4bbe701f66846bc1398819cf1087382e9d759fac4cc4847c5913b51e07fa28cf	1fc381e0cc44fceed448480a6d9674d437e8dada3a4e391cf9e341ce8c3e4750	ws43/app-0.9.29-1fc381e0.bin	Four defects the screenshots found: a mislabelled standing run, two overflowing strings and an absurd split
