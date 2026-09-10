@@ -32,6 +32,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+host	glass	0.9.31	3314484	cf3718072f58e7e1915d51a921f99a992f09624af15fadb4648741d12df97609	-	host/glass-0.9.31-cf371807.exe	host renderer for the overlay tool, built from 723bd0a
 ws43	app	0.9.30	4089856	1d2f6034299f453a0c9ff821ca5bbb25c05c7c52edc41d6b0a752ce126f93731	e6f67b65173b49ecb46ab06b8558657534de473ab65a7c184450490395cd1c5a	ws43/app-0.9.30-e6f67b65.bin	Review: a run consumes its stop, the bench guard is a gate, bench runs never a best, verdict 9 in four languages, a quiet list row
 ws43	app	0.9.29	4089232	4bbe701f66846bc1398819cf1087382e9d759fac4cc4847c5913b51e07fa28cf	1fc381e0cc44fceed448480a6d9674d437e8dada3a4e391cf9e341ce8c3e4750	ws43/app-0.9.29-1fc381e0.bin	Four defects the screenshots found: a mislabelled standing run, two overflowing strings and an absurd split
 ws43	app	0.9.28	4088928	4c1adf8f754bb625a1458e746dd58b55c196817c765c3be62cb87f2327db71a8	d4d70016f3226510e65c7c6619b1909dc4e61f1f5e45288f712edb21046fce91	ws43/app-0.9.28-d4d70016.bin	The bench drops what the receiver had in flight before it fabricates a drive
