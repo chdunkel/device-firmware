@@ -32,6 +32,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+kw906	app	0.1.2	1160992	2ea87328d8a8cdaa8ed4686d854aaf44067eab1ef7d1bd43be5e25b2bf0df885	201f82b52977d6b26fdb51fbcfd249b44a26f737ee92a4ff61676cfd501f1536	kw906/app-0.1.2-201f82b5.bin	auto upload of closed logs to GitHub, 10-min rotation, gh auto on|off
 kw906	app	0.1.1	1159984	189a080a23ea630067447e9ce1bed93dbf60458f4cd9020620a5902430182d74	1bcdc00e83302ba414c57ff0679247677876ddbd53ed10021997156e98c3226c	kw906/app-0.1.1-1bcdc00e.bin	OTA channel: unattended updates from device-firmware (fwup), 60 s STA retry, rollback confirm
 all	trackdb	1789083807	2042037	00bffd3d081de8d916a46c7a2dd471b0f6b70f460c79e86eb822ce5673abfa88	B2E1B561	all/trackdb-1789083807-b2e1b561.pltdb	sector divisions restored (02927d5) 123 venues
 host	glass	0.9.31	3320429	aa883ee70523b482e64ab6ee8dd80b2d6a6725aef11b34828d13f1cdc394892a	-	host/glass-0.9.31-aa883ee7.exe	glass: --ref (the reference the device held), one obeying camera on the rig; built from 723bd0a + overlay work of 2026-09-10
