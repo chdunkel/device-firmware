@@ -32,11 +32,11 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+kw906	app	0.1.13	1187328	758db1df8caca57b9ca037574556c5a52293f95a4e7328e1f2155e2c30e42043	c244d6c047ee68de214889020983d05af19dbcafa2b24a0d07547af77492a7a9	kw906/app-0.1.13-c244d6c0.bin	hostname obd-sniffer (DHCP client name), minimal mDNS responder for obd-sniffer.local, name shown in the Wi-Fi tile
 kw906	app	0.1.12	1185824	dd0b97edaba6eac3f5483f31d972e8b43b895883758935249dff8746b6feb6b8	b01da5660ccce8deb7691f5e31385ed3250df7b03d8d5357cb2bd60f5df807b9	kw906/app-0.1.12-b01da566.bin	web: reload itself when a different build answers after an update; 'rebooting' state while unreachable
 kw906	app	0.1.11	1185040	b7d7eda87de3f80e8e953efd6175e2440dde76970962056d520c04861d512570	c877d550b635e6c0dd15e4002320802a029b49a41dead8b8f72ddcf0ae941ea6	kw906/app-0.1.11-c877d550.bin	web: Wi-Fi bars below the chip, errors folded into the Frames tile (6 tiles in one row)
 kw906	app	0.1.10	1185136	3c86d0291ab6a4b1266010033e6845388c4ded27e47e9cabe48dd704317adce7	51e00fa871123122d6dc0b3dfe122952b24a557d218e4860528cc922bdacada8	kw906/app-0.1.10-51e00fa8.bin	web rebuilt: sparkline, storage ring, Wi-Fi bars, OTA/download bars, sortable IDs with activity bars, click-to-isolate, collapsible settings, favicon, terse texts
 kw906	app	0.1.9	1178960	54deceb2ad93e822c291442299c727637319ac724a65df9bce1d7b62f073cd5c	9a875abdad27edd628de1c27feadc37d10b5f567163b072291a30d412fb7f5e1	kw906/app-0.1.9-9a875abd.bin	Dunkel Engineering branding: header brand, page title, footer with firmware version
-kw906	app	0.1.8	1178208	0ccb67a2beb04bda7aa26016352038b383887595c37f3bf466b64f72bb05a31b	018f7e7449d9c983b5ba05df041b9d29698eb4e072f1f4f029738173580b4ece	kw906/app-0.1.8-018f7e74.bin	access test: one retry after 3 s, not in the first 15 s after STA, queued behind running upload/update check instead of colliding; logs the open error
 all	trackdb	1789083807	2042037	00bffd3d081de8d916a46c7a2dd471b0f6b70f460c79e86eb822ce5673abfa88	B2E1B561	all/trackdb-1789083807-b2e1b561.pltdb	sector divisions restored (02927d5) 123 venues
 host	glass	0.9.31	3320429	aa883ee70523b482e64ab6ee8dd80b2d6a6725aef11b34828d13f1cdc394892a	-	host/glass-0.9.31-aa883ee7.exe	glass: --ref (the reference the device held), one obeying camera on the rig; built from 723bd0a + overlay work of 2026-09-10
 host	glass	0.9.31	3314484	cf3718072f58e7e1915d51a921f99a992f09624af15fadb4648741d12df97609	-	host/glass-0.9.31-cf371807.exe	host renderer for the overlay tool, built from 723bd0a
