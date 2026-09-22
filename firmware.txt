@@ -32,6 +32,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+kw906	app	0.1.3	1161408	7c6cabf1caee0f4a37e5a0fbd50f896f26edc248a3613b7cebf61afeebd8de54	eee1d46c6acdffdda8803cb2b57eada8fce08ee3b9dd35b165ea97d190608b13	kw906/app-0.1.3-eee1d46c.bin	LED status patterns (heartbeat / no STA / upload / unconfirmed / download, frame flicker); log NVS erase
 kw906	app	0.1.2	1160992	2ea87328d8a8cdaa8ed4686d854aaf44067eab1ef7d1bd43be5e25b2bf0df885	201f82b52977d6b26fdb51fbcfd249b44a26f737ee92a4ff61676cfd501f1536	kw906/app-0.1.2-201f82b5.bin	auto upload of closed logs to GitHub, 10-min rotation, gh auto on|off
 kw906	app	0.1.1	1159984	189a080a23ea630067447e9ce1bed93dbf60458f4cd9020620a5902430182d74	1bcdc00e83302ba414c57ff0679247677876ddbd53ed10021997156e98c3226c	kw906/app-0.1.1-1bcdc00e.bin	OTA channel: unattended updates from device-firmware (fwup), 60 s STA retry, rollback confirm
 all	trackdb	1789083807	2042037	00bffd3d081de8d916a46c7a2dd471b0f6b70f460c79e86eb822ce5673abfa88	B2E1B561	all/trackdb-1789083807-b2e1b561.pltdb	sector divisions restored (02927d5) 123 venues
