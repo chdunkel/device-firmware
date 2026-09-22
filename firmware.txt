@@ -32,6 +32,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+kw906	app	0.1.5	1175808	a7406f0a10bae1535e3221e7b697d7242df0b257f3212aaffa3ad11c931ad35c	9d3c7f84dc178e0339476dd0064b21c9238d951fa77b04629574ad7c862b17f1	kw906/app-0.1.5-9d3c7f84.bin	GitHub access test (token/repo/write verdict) on save, at STA up and on demand; Wi-Fi state feedback; gh test on console; ?snap page mode
 kw906	app	0.1.4	1171856	8c6fa632ee98c91ff722a82d7bb432766ff47c70bcfff85ee47820ae3458e3a8	32f20a9e0a7b357eddd066faa4ee623e44745d613fa57a7cd5a2069d78c2dd8e	kw906/app-0.1.4-32f20a9e.bin	new web UI: status tiles, live IDs, frame log with pause/filter, file list, config form with toasts; embedded index.html
 kw906	app	0.1.3	1161408	7c6cabf1caee0f4a37e5a0fbd50f896f26edc248a3613b7cebf61afeebd8de54	eee1d46c6acdffdda8803cb2b57eada8fce08ee3b9dd35b165ea97d190608b13	kw906/app-0.1.3-eee1d46c.bin	LED status patterns (heartbeat / no STA / upload / unconfirmed / download, frame flicker); log NVS erase
 kw906	app	0.1.2	1160992	2ea87328d8a8cdaa8ed4686d854aaf44067eab1ef7d1bd43be5e25b2bf0df885	201f82b52977d6b26fdb51fbcfd249b44a26f737ee92a4ff61676cfd501f1536	kw906/app-0.1.2-201f82b5.bin	auto upload of closed logs to GitHub, 10-min rotation, gh auto on|off
