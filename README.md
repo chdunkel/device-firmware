@@ -11,6 +11,7 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| kw906 | app | 0.1.46 | 1.3 MB | `kw906/app-0.1.46-e4aad438.bin` |
 | kw906 | app | 0.1.45 | 1.3 MB | `kw906/app-0.1.45-c6ddfc4d.bin` |
 | kw906 | app | 0.1.44 | 1.3 MB | `kw906/app-0.1.44-8a518b41.bin` |
 | host | glass | 0.9.36 | 3.6 MB | `host/glass-0.9.36-bc69c527.exe` |
@@ -19,7 +20,6 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 | ws43 | app | 0.9.35 | 4.1 MB | `ws43/app-0.9.35-2229fee7.bin` |
 | kw906 | app | 0.1.43 | 1.3 MB | `kw906/app-0.1.43-cb359ac5.bin` |
 | kw906 | app | 0.1.42 | 1.3 MB | `kw906/app-0.1.42-eedf45e0.bin` |
-| kw906 | app | 0.1.41 | 1.3 MB | `kw906/app-0.1.41-a6a030db.bin` |
 | ws43 | app | 0.9.34 | 4.0 MB | `ws43/app-0.9.34-1ef306c8.bin` |
 | ws43 | app | 0.9.32 | 4.0 MB | `ws43/app-0.9.32-12e40d23.bin` |
 | all | trackdb | 1789083807 | 1.9 MB | `all/trackdb-1789083807-b2e1b561.pltdb` |
