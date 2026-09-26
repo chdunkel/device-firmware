@@ -11,13 +11,13 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| kw906 | app | 0.1.109 | 1.7 MB | `kw906/app-0.1.109-c7839576.bin` |
 | host | glass | 0.9.39 | 3.7 MB | `host/glass-0.9.39-845750f4.exe` |
 | ws43 | app | 0.9.39 | 4.1 MB | `ws43/app-0.9.39-d6ba745e.bin` |
 | kw906 | app | 0.1.108 | 1.7 MB | `kw906/app-0.1.108-3b373892.bin` |
 | kw906 | app | 0.1.107 | 1.7 MB | `kw906/app-0.1.107-fef78213.bin` |
 | kw906 | app | 0.1.106 | 1.7 MB | `kw906/app-0.1.106-15b99b3b.bin` |
 | kw906 | app | 0.1.105 | 1.7 MB | `kw906/app-0.1.105-a267171a.bin` |
-| kw906 | app | 0.1.104 | 1.7 MB | `kw906/app-0.1.104-71275281.bin` |
 | host | glass | 0.9.38 | 3.7 MB | `host/glass-0.9.38-acc75287.exe` |
 | ws43 | app | 0.9.38 | 4.1 MB | `ws43/app-0.9.38-88c0a2b2.bin` |
 | host | glass | 0.9.37 | 3.6 MB | `host/glass-0.9.37-a146c781.exe` |
@@ -115,5 +115,6 @@ gigabyte within a year and make it painful to clone.
 
 | id | hardware |
 | --- | --- |
+| `kw906` | KW906 OBD tap, Seeed XIAO ESP32C6 (OBD2_Adapter/firmware/sniffer) |
 | `ws35` | Waveshare ESP32-S3-Touch-LCD-3.5B |
 | `ws43` | Waveshare ESP32-P4-WIFI6-Touch-LCD-4.3 |
