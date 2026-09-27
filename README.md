@@ -11,6 +11,8 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| host | glass | 0.9.41 | 3.8 MB | `host/glass-0.9.41-9d3595c0.exe` |
+| ws43 | app | 0.9.41 | 4.2 MB | `ws43/app-0.9.41-fc71f32a.bin` |
 | kw906 | app | 0.1.118 | 1.6 MB | `kw906/app-0.1.118-b9e6ea58.bin` |
 | kw906 | app | 0.1.117 | 1.6 MB | `kw906/app-0.1.117-4807a541.bin` |
 | kw906 | app | 0.1.116 | 1.6 MB | `kw906/app-0.1.116-8e2d0310.bin` |
@@ -24,8 +26,6 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 | ws43 | app | 0.9.38 | 4.1 MB | `ws43/app-0.9.38-88c0a2b2.bin` |
 | host | glass | 0.9.37 | 3.6 MB | `host/glass-0.9.37-a146c781.exe` |
 | ws43 | app | 0.9.37 | 4.1 MB | `ws43/app-0.9.37-7bee6357.bin` |
-| host | glass | 0.9.36 | 3.6 MB | `host/glass-0.9.36-bc69c527.exe` |
-| ws43 | app | 0.9.36 | 4.1 MB | `ws43/app-0.9.36-ccfff381.bin` |
 | all | trackdb | 1789083807 | 1.9 MB | `all/trackdb-1789083807-b2e1b561.pltdb` |
 | all | trackdb | 1788987688 | 1.9 MB | `all/trackdb-1788987688-e6cac4d0.pltdb` |
 | ws35 | app | 0.9.22 | 3.0 MB | `ws35/app-0.9.22-a016f79a.bin` |
@@ -115,6 +115,5 @@ gigabyte within a year and make it painful to clone.
 
 | id | hardware |
 | --- | --- |
-| `kw906` | KW906 OBD tap, Seeed XIAO ESP32C6 (OBD2_Adapter/firmware/sniffer) |
 | `ws35` | Waveshare ESP32-S3-Touch-LCD-3.5B |
 | `ws43` | Waveshare ESP32-P4-WIFI6-Touch-LCD-4.3 |
