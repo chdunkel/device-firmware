@@ -11,11 +11,11 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| kw906 | app | 0.1.171 | 1.6 MB | `kw906/app-0.1.171-44985513.bin` |
 | kw906 | app | 0.1.170 | 1.6 MB | `kw906/app-0.1.170-7cb3e941.bin` |
 | kw906 | app | 0.1.169 | 1.6 MB | `kw906/app-0.1.169-aa779d7b.bin` |
 | kw906 | app | 0.1.168 | 1.6 MB | `kw906/app-0.1.168-c045aab0.bin` |
 | kw906 | app | 0.1.167 | 1.6 MB | `kw906/app-0.1.167-d1e95522.bin` |
-| kw906 | app | 0.1.166 | 1.6 MB | `kw906/app-0.1.166-adabe6c0.bin` |
 | host | glass | 0.9.43 | 3.8 MB | `host/glass-0.9.43-fef601f4.exe` |
 | ws43 | app | 0.9.43 | 4.2 MB | `ws43/app-0.9.43-84fbaba6.bin` |
 | host | glass | 0.9.42 | 3.8 MB | `host/glass-0.9.42-baf90fa0.exe` |
