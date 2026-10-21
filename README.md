@@ -11,6 +11,8 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| ws43v3 | radio | 3.0.6 | 1.4 MB | `ws43v3/radio-3.0.6.bin` |
+| ws43v3 | app | 0.9.43 | 4.2 MB | `ws43v3/app-0.9.43-69026501.bin` |
 | kw906 | app | 0.1.217 | 1.7 MB | `kw906/app-0.1.217-61dfdfc4.bin` |
 | kw906 | app | 0.1.216 | 1.7 MB | `kw906/app-0.1.216-0c10cf6f.bin` |
 | kw906 | app | 0.1.215 | 1.7 MB | `kw906/app-0.1.215-ad5044c9.bin` |
@@ -117,4 +119,5 @@ gigabyte within a year and make it painful to clone.
 | --- | --- |
 | `kw906` | KW906 OBD tap, Seeed XIAO ESP32C6 (OBD2_Adapter/firmware/sniffer) |
 | `ws35` | Waveshare ESP32-S3-Touch-LCD-3.5B |
-| `ws43` | Waveshare ESP32-P4-WIFI6-Touch-LCD-4.3 |
+| `ws43` | Waveshare ESP32-P4-WIFI6-Touch-LCD-4.3, ESP32-P4 silicon v1.x |
+| `ws43v3` | Waveshare ESP32-P4-WIFI6-Touch-LCD-4.3, ESP32-P4 silicon v3.x |
