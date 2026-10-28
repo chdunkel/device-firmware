@@ -32,6 +32,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+obdbrain	app	0.1.218	2127776	a970b75b9778552d07d6cc998837e6d36e2acc2d70aa7c117f7f9fbaeab25faf	6d0c04246bf8d3a24d635e1279897d1a33f1f6bada4236136ec3f36d94b903f5	obdbrain/app-0.1.218-6d0c0424.bin	brain: internal RAM for TLS / Wi-Fi (Wi-Fi IRAM options off, fewer static Wi-Fi buffers, NimBLE pools in PSRAM: 72 KB internal free instead of 28) - the firmware check, uploads and OTA work; status shows internal RAM; the page reads the manifest f...
 ws43v3	radio	3.0.6	1418464	3177cd39c14a716275dc4bdeff728f2dffb51c5b185b40b5330caa41704efb7b	-	ws43v3/radio-3.0.6.bin	0.9.43 for ESP32-P4 silicon v3.x (new 4.3-inch boards): same source as ws43 0.9.43, built with sdkconfig.defaults.p4v3, DSI PLL reference chosen per silicon
 ws43v3	app	0.9.43	4399056	8c5bef4197072c302a3bec20d2ef458f615cef297d89e75c36f5b285ddd4aa22	6902650110966a0808bccb2e3aef2a7d79c2665a0a3fd76d1c8657191dcac6ef	ws43v3/app-0.9.43-69026501.bin	0.9.43 for ESP32-P4 silicon v3.x (new 4.3-inch boards): same source as ws43 0.9.43, built with sdkconfig.defaults.p4v3, DSI PLL reference chosen per silicon
 kw906	app	0.1.217	1736592	1cbe900dd3a0221f884f74739c31db6a67a9d3c904947c89061b5f4adfb148cb	61dfdfc47362ca54772aa173147386d255524deb2d36d9987aa1a26c047d70c2	kw906/app-0.1.217-61dfdfc4.bin	992 DID search job: + the PDK from 4000 (checks the last Gemini claim, 44B0)
