@@ -11,6 +11,7 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| obdbrain | app | 0.1.222 | 2.0 MB | `obdbrain/app-0.1.222-e30c6b2e.bin` |
 | obdbrain | app | 0.1.221 | 2.0 MB | `obdbrain/app-0.1.221-7f6db445.bin` |
 | kw906 | app | 0.1.220 | 1.7 MB | `kw906/app-0.1.220-07f53f5b.bin` |
 | obdbrain | app | 0.1.220 | 2.0 MB | `obdbrain/app-0.1.220-f5017a63.bin` |
