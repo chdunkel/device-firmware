@@ -11,11 +11,11 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| obdbrain | app | 0.1.226 | 2.0 MB | `obdbrain/app-0.1.226-db9b5fb2.bin` |
 | obdbrain | app | 0.1.225 | 2.0 MB | `obdbrain/app-0.1.225-b4b50327.bin` |
 | obdbrain | app | 0.1.224 | 2.1 MB | `obdbrain/app-0.1.224-31588cba.bin` |
 | obdbrain | app | 0.1.223 | 2.1 MB | `obdbrain/app-0.1.223-5b06d596.bin` |
 | obdbrain | app | 0.1.222 | 2.0 MB | `obdbrain/app-0.1.222-e30c6b2e.bin` |
-| obdbrain | app | 0.1.221 | 2.0 MB | `obdbrain/app-0.1.221-7f6db445.bin` |
 | kw906 | app | 0.1.220 | 1.7 MB | `kw906/app-0.1.220-07f53f5b.bin` |
 | kw906 | app | 0.1.219 | 1.7 MB | `kw906/app-0.1.219-80ff0fab.bin` |
 | ws43v3 | radio | 3.0.6 | 1.4 MB | `ws43v3/radio-3.0.6.bin` |
