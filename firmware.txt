@@ -32,6 +32,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+obdc6	app	0.1.237	1932064	7f9c4d5f0289d768d39567178fcf4fa896320549585eb524f8430d22dedbf130	881c69cbed4dc254d4c6b082562328e916044b4878251242f6cab71491d29d99	obdc6/app-0.1.237-881c69cb.bin	Fault code read: units with key values (DSC brake, EPS steering, DME, IB) only while the car verifiably stands (fresh speed 0) - the X5 drive asked the DSC at 45 km/h and blanked the brake 2.7 s
 obdc6	app	0.1.236	1931840	0604d561b0a8f0125826ac1c2a429bdd6f0c6272d7fe185557ca5b55271da078	cfa549cfc39a62de258360b4160fafe42cb84ad5c78d31ba48321d6eee6c5962	obdc6/app-0.1.236-cfa549cf.bin	C6 board: full logging while polling (every request and answer, like the brain); with the log ring as the FAT's overflow
 obdc6	app	0.1.235	1932208	e6ca64db0b4600bdb9b726f69ce3f6f68c41b53088a6dd3005d7bf074c50c2d6	bdeb836ece673292103606ffbe9e96a22f3de08940fa8157b7ad223240174edc	obdc6/app-0.1.235-bdeb836e.bin	C6 board: commits signed with the board's name (c6 sniff / c6 ui snapshot); with 0.1.234's log ring as the FAT's overflow
 obdc6	app	0.1.234	1932192	0e2b4302f23f1fb8cbc6c6254bd3092ce23fb09d84250a2a27ab3ee85c1a4d94	50cc168abd99311285e20ac6be105c7043379ea05349a8dcd8ab74bdc8dde7ff	obdc6/app-0.1.234-50cc168a.bin	C6 board: layout c6 with the log ring as the FAT's overflow (~5 MB of logs instead of 2.6)
