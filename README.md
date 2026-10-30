@@ -11,6 +11,7 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| obdc6 | app | 0.1.233 | 1.8 MB | `obdc6/app-0.1.233-8d40f000.bin` |
 | obdbrain | app | 0.1.232 | 2.0 MB | `obdbrain/app-0.1.232-a9243f04.bin` |
 | obdbrain | app | 0.1.231 | 2.0 MB | `obdbrain/app-0.1.231-b55ceeb6.bin` |
 | ws43v3 | app | 0.9.44 | 4.2 MB | `ws43v3/app-0.9.44-06d04464.bin` |
@@ -125,5 +126,6 @@ gigabyte within a year and make it painful to clone.
 | --- | --- |
 | `kw906` | KW906 OBD tap, Seeed XIAO ESP32C6 (OBD2_Adapter/firmware/sniffer) |
 | `obdbrain` | S31 OBD board, the brain (OBD2_Adapter/firmware/sniffer, sdkconfig.brain.defaults) |
+| `obdc6` | C6 OBD board, ESP32-C6-MINI-1-H8 (OBD2_Adapter/firmware/sniffer, sdkconfig.c6.defaults) |
 | `ws35` | Waveshare ESP32-S3-Touch-LCD-3.5B |
 | `ws43` | Waveshare ESP32-P4-WIFI6-Touch-LCD-4.3 |
