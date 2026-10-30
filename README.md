@@ -11,6 +11,7 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| obdc6 | app | 0.1.235 | 1.8 MB | `obdc6/app-0.1.235-bdeb836e.bin` |
 | obdc6 | app | 0.1.234 | 1.8 MB | `obdc6/app-0.1.234-50cc168a.bin` |
 | obdc6 | app | 0.1.233 | 1.8 MB | `obdc6/app-0.1.233-8d40f000.bin` |
 | obdbrain | app | 0.1.232 | 2.0 MB | `obdbrain/app-0.1.232-a9243f04.bin` |

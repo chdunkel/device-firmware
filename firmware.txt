@@ -32,6 +32,7 @@
 # Records are newest first within each (board, kind).
 
 manifest	1
+obdc6	app	0.1.235	1932208	e6ca64db0b4600bdb9b726f69ce3f6f68c41b53088a6dd3005d7bf074c50c2d6	bdeb836ece673292103606ffbe9e96a22f3de08940fa8157b7ad223240174edc	obdc6/app-0.1.235-bdeb836e.bin	C6 board: commits signed with the board's name (c6 sniff / c6 ui snapshot); with 0.1.234's log ring as the FAT's overflow
 obdc6	app	0.1.234	1932192	0e2b4302f23f1fb8cbc6c6254bd3092ce23fb09d84250a2a27ab3ee85c1a4d94	50cc168abd99311285e20ac6be105c7043379ea05349a8dcd8ab74bdc8dde7ff	obdc6/app-0.1.234-50cc168a.bin	C6 board: layout c6 with the log ring as the FAT's overflow (~5 MB of logs instead of 2.6)
 obdc6	app	0.1.233	1931776	e9ed1a7d1353cec781b65568a43696e500cb2ecd0fae9acb31c95a6b4b825af1	8d40f00039e8897f657e408c772aa9722f755c820b73c3cf2f5d12126227fe4f	obdc6/app-0.1.233-8d40f000.bin	C6 OBD board (obdc6), first OTA build: TJA1051 S / 5V0_EN / VBAT / IGN_WAKE, 8 MB table, full radio power, TX from the first boot
 obdbrain	app	0.1.232	2148512	28ec83715fdd2c1e33d830d33ca5faca38ca8a1a08d0e3c13b73c0cbe866529a	a9243f04119292fb23c7b61387df234dc77acd9d2d8e941ee66a103e2dad78bf	obdbrain/app-0.1.232-a9243f04.bin	learned start: applied to every new planner (a counter, not the planner's address - the same block came back and drive 3 of boot 27 started at 10 req/s, brake ~0.5 Hz for 12 s)
