@@ -11,6 +11,8 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| host | glass | 0.9.45 | 3.9 MB | `host/glass-0.9.45-865e4800.exe` |
+| ws43 | app | 0.9.45 | 4.3 MB | `ws43/app-0.9.45-1ff3c6be.bin` |
 | host | glass | 0.9.44 | 3.8 MB | `host/glass-0.9.44-12035c94.exe` |
 | ws43 | app | 0.9.44 | 4.2 MB | `ws43/app-0.9.44-256c0712.bin` |
 | obdc6 | app | 0.1.251 | 1.9 MB | `obdc6/app-0.1.251-9232ad1c.bin` |
@@ -37,8 +39,6 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 | ws43 | app | 0.9.42 | 4.2 MB | `ws43/app-0.9.42-5dbcf45f.bin` |
 | host | glass | 0.9.41 | 3.8 MB | `host/glass-0.9.41-9d3595c0.exe` |
 | ws43 | app | 0.9.41 | 4.2 MB | `ws43/app-0.9.41-fc71f32a.bin` |
-| host | glass | 0.9.40 | 3.7 MB | `host/glass-0.9.40-2a3434c0.exe` |
-| ws43 | app | 0.9.40 | 4.1 MB | `ws43/app-0.9.40-3f8f5309.bin` |
 | all | trackdb | 1789083807 | 1.9 MB | `all/trackdb-1789083807-b2e1b561.pltdb` |
 | all | trackdb | 1788987688 | 1.9 MB | `all/trackdb-1788987688-e6cac4d0.pltdb` |
 | ws35 | app | 0.9.22 | 3.0 MB | `ws35/app-0.9.22-a016f79a.bin` |
@@ -129,4 +129,5 @@ gigabyte within a year and make it painful to clone.
 | id | hardware |
 | --- | --- |
 | `ws35` | Waveshare ESP32-S3-Touch-LCD-3.5B |
-| `ws43` | Waveshare ESP32-P4-WIFI6-Touch-LCD-4.3 |
+| `ws43` | Waveshare ESP32-P4-WIFI6-Touch-LCD-4.3, ESP32-P4 silicon v1.x |
+| `ws43v3` | Waveshare ESP32-P4-WIFI6-Touch-LCD-4.3, ESP32-P4 silicon v3.x |
