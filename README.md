@@ -11,6 +11,7 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| ws43 | app | 0.9.46 | 4.3 MB | `ws43/app-0.9.46-91c429cc.bin` |
 | ws43v3 | app | 0.9.45 | 4.3 MB | `ws43v3/app-0.9.45-895a8d45.bin` |
 | host | glass | 0.9.45 | 3.9 MB | `host/glass-0.9.45-865e4800.exe` |
 | ws43 | app | 0.9.45 | 4.3 MB | `ws43/app-0.9.45-1ff3c6be.bin` |
@@ -39,7 +40,6 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 | host | glass | 0.9.42 | 3.8 MB | `host/glass-0.9.42-baf90fa0.exe` |
 | ws43 | app | 0.9.42 | 4.2 MB | `ws43/app-0.9.42-5dbcf45f.bin` |
 | host | glass | 0.9.41 | 3.8 MB | `host/glass-0.9.41-9d3595c0.exe` |
-| ws43 | app | 0.9.41 | 4.2 MB | `ws43/app-0.9.41-fc71f32a.bin` |
 | all | trackdb | 1789083807 | 1.9 MB | `all/trackdb-1789083807-b2e1b561.pltdb` |
 | all | trackdb | 1788987688 | 1.9 MB | `all/trackdb-1788987688-e6cac4d0.pltdb` |
 | ws35 | app | 0.9.22 | 3.0 MB | `ws35/app-0.9.22-a016f79a.bin` |
