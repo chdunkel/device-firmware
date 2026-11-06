@@ -11,6 +11,7 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| ws43v3 | app | 0.9.46 | 4.3 MB | `ws43v3/app-0.9.46-bde5dc04.bin` |
 | ws43 | app | 0.9.46 | 4.3 MB | `ws43/app-0.9.46-91c429cc.bin` |
 | ws43v3 | app | 0.9.45 | 4.3 MB | `ws43v3/app-0.9.45-895a8d45.bin` |
 | host | glass | 0.9.45 | 3.9 MB | `host/glass-0.9.45-865e4800.exe` |
