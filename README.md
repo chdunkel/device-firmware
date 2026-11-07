@@ -11,6 +11,8 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| ws43 | radio | 3.1.0 | 1.4 MB | `ws43/radio-3.1.0.bin` |
+| ws43 | app | 0.9.47 | 4.2 MB | `ws43/app-0.9.47-19ded735.bin` |
 | ws43v3 | app | 0.9.46 | 4.3 MB | `ws43v3/app-0.9.46-bde5dc04.bin` |
 | ws43 | app | 0.9.46 | 4.3 MB | `ws43/app-0.9.46-91c429cc.bin` |
 | ws43v3 | app | 0.9.45 | 4.3 MB | `ws43v3/app-0.9.45-895a8d45.bin` |
@@ -39,7 +41,6 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 | host | glass | 0.9.43 | 3.8 MB | `host/glass-0.9.43-fef601f4.exe` |
 | ws43 | app | 0.9.43 | 4.2 MB | `ws43/app-0.9.43-84fbaba6.bin` |
 | host | glass | 0.9.42 | 3.8 MB | `host/glass-0.9.42-baf90fa0.exe` |
-| ws43 | app | 0.9.42 | 4.2 MB | `ws43/app-0.9.42-5dbcf45f.bin` |
 | host | glass | 0.9.41 | 3.8 MB | `host/glass-0.9.41-9d3595c0.exe` |
 | all | trackdb | 1789083807 | 1.9 MB | `all/trackdb-1789083807-b2e1b561.pltdb` |
 | all | trackdb | 1788987688 | 1.9 MB | `all/trackdb-1788987688-e6cac4d0.pltdb` |
