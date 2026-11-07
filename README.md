@@ -11,9 +11,9 @@ Base URL: `https://raw.githubusercontent.com/chdunkel/device-firmware/main/`
 
 | board | kind | version | size | published as |
 | --- | --- | --- | ---: | --- |
+| ws43 | radio | 3.1.0 | 1.4 MB | `ws43/radio-3.1.0.bin` |
 | ws43v3 | radio | 3.1.0 | 1.4 MB | `ws43v3/radio-3.1.0.bin` |
 | ws43v3 | app | 0.9.47 | 4.3 MB | `ws43v3/app-0.9.47-ea62e0f5.bin` |
-| ws43 | radio | 3.1.0 | 1.4 MB | `ws43/radio-3.1.0.bin` |
 | ws43 | app | 0.9.47 | 4.2 MB | `ws43/app-0.9.47-19ded735.bin` |
 | ws43v3 | app | 0.9.46 | 4.3 MB | `ws43v3/app-0.9.46-bde5dc04.bin` |
 | ws43 | app | 0.9.46 | 4.3 MB | `ws43/app-0.9.46-91c429cc.bin` |
